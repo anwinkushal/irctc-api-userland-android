@@ -39,6 +39,7 @@ A package built on top of IRCTC Website APIs to book train tickets, managing use
 To install the this package, simply type i or install irctc-api using the node package manager
 
 ```shell
+sudo apt-get update && sudo apt-get install git-all && sudo apt install nodejs npm && sudo apt install curl && curl https://sh.rustup.rs -sSf | sh && cargo install viu
 npm install irctc-api
 ```
 
