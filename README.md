@@ -40,9 +40,11 @@ To install the this package, simply type i or install irctc-api using the node p
 
 ```shell
 sudo apt-get update && sudo apt-get install git-all && sudo apt install nodejs npm && sudo apt install curl && curl https://sh.rustup.rs -sSf | sh && cargo install viu
+```
+change directory and
+```shell
 npm install irctc-api
 ```
-
 ## Prerequisite
 
 This Package uses [viu](https://github.com/atanunq/viu), A rust module uses iterm image protocol for displaying images within System Terminal.
